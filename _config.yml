@@ -9,7 +9,7 @@ author:
   name: Seul Lee
   desc: AI Researcher
   email: ellenlee7890@gmail.com
-  selfie: assets/img/profile.jpg
+  selfie: assets/img/profile.png
 
 # social
 social:
@@ -31,7 +31,7 @@ social:
   steam:
   tumblr:
   gitlab:
-  twitter: Test
+  twitter: # Test
   vimeo:
   wordpress:
   youtube:
