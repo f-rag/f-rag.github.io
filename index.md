@@ -3,25 +3,29 @@ layout: about
 ---
 
 # About Me
-I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/publication) lab in KAIST, under the supervision of Prof. Sung Ju Hwang.
+I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang.
 I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.
 My research interest ~.
 
 <br/>
 
 # Publications
-* Edge Representation Learning with Hypergraphs<br/>Jaehyung Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, Minki Kang and Sung Ju Hwang (\*: equal contribution)
-Information Processing Systems (NeurIPS), 2021. [paper]
-  * Web Application Firewall
-    * Developed TCP network acceleration module.
-    * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+* Edge Representation Learning with Hypergraphs<br/>Jaehyung Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang and Sung Ju Hwang<br/>(\*: equal contribution)<br/>NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2106.15845.pdf)\]
+* Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation<br/>Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu and Sung Ju Hwang<br/>NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2110.01219.pdf)\]
+* Robotic Scanning Technology for Laser Pulse-Echo Inspection<br/>**Seul Lee**, Jong-min Hyun, Hasan Ahmed and Jung-ryul Lee<br/>Electronics Letters, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Education
+* M.S. student, Graduate School of AI, Korea Advanced Institute of Science and Technology (KAIST), Sep. 2020 ~
+* B.S., Aerospace Engineering, Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
+* B.S., Biological Sciences, Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
+
+# Awards and Honors
+* KAIST *Summa Cum Laude*, Aug. 2019.
+* KAIST Dean's List (College of Engineering), Aug. 2018.
+* KAIST Dean's List (College of Engineering), Feb. 2018.
+* Boeing Undergraduate Scholarship, Feb. 2018 ~ Aug. 2019.
+* KAIST Presidential Fellowship (KPF), Mar. 2017 ~ Aug. 2019.
+* KAIST Dean's List (College of Life Science & Bioengineering), Feb. 2017.
+* National Science and Engineering Undergraduate Scholarship, Mar. 2015 ~ Aug. 2019.
