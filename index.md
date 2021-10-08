@@ -3,12 +3,15 @@ layout: about
 ---
 
 # About Me
-test
+I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com/publication) lab in KAIST, under the supervision of Prof. Sung Ju Hwang.
+I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.
+My research interest ~.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
+# Publications
+* Edge Representation Learning with Hypergraphs<br/>Jaehyung Jo\*, Jinheon Baek\*, Seul Lee\*, Dongki Kim, Minki Kang and Sung Ju Hwang (\*: equal contribution)
+Information Processing Systems (NeurIPS), 2021. [paper]
   * Web Application Firewall
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
