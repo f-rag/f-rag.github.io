@@ -22,7 +22,7 @@ My research interest includes deep drug discovery, generative models, and graph 
 
 ## Publications and Preprints
 ***
-* MOG: Molecular Out-of-distribution Generation with Energy-based Models<br/>**Seul Lee**, Dong Bok Lee and Sung Ju Hwang<br/>In submission, 2021.
+* <font color="blue">MOG: Molecular Out-of-distribution Generation with Energy-based Models<\font><br/>**Seul Lee**, Dong Bok Lee and Sung Ju Hwang<br/>In submission, 2021.
 * Edge Representation Learning with Hypergraphs<br/>Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang and Sung Ju Hwang<br/>(\*: equal contribution)<br/>NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2106.15845.pdf)\]
 * Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation<br/>Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu and Sung Ju Hwang<br/>NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2110.01219.pdf)\]
 * Robotic Scanning Technology for Laser Pulse-Echo Inspection<br/>**Seul Lee**, Jong-min Hyun, Hasan Ahmed and Jung-ryul Lee<br/>Electronics Letters, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
