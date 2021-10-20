@@ -2,23 +2,27 @@
 layout: about 
 ---
 
-<br/>
+<br>
 
 ## About Me
 ***
-I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br/>
+I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
 My research interest includes deep drug discovery, generative models, and graph neural networks.
 
-<br/>
+<br>
 
 ## Education
 ***
-* M.S. student, Graduate School of AI<br/>Korea Advanced Institute of Science and Technology (KAIST), Sep. 2020 ~
-* M.S. student, Department of Aerospace Engineering<br/>Korea Advanced Institute of Science and Technology (KAIST), Sep. 2019 ~ Feb. 2020.
-* B.S., Department of Aerospace Engineering<br/>Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
-* B.S., Department of Biological Sciences<br/>Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
+* M.S. student, Graduate School of AI<br>
+Korea Advanced Institute of Science and Technology (KAIST), Sep. 2020 ~
+* M.S. student, Department of Aerospace Engineering<br>
+Korea Advanced Institute of Science and Technology (KAIST), Sep. 2019 ~ Feb. 2020.
+* B.S., Department of Aerospace Engineering<br>
+Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
+* B.S., Department of Biological Sciences<br>
+Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
 
-<br/>
+<br>
 
 ## Publications and Preprints
 ***
@@ -36,7 +40,7 @@ NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2110.01219.pdf)\]
 **Seul Lee**, Jong-min Hyun, Hasan Ahmed and Jung-ryul Lee<br>
 Electronics Letters, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
 
-<br/>
+<br>
 
 ## Awards and Honors
 ***
