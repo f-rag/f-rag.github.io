@@ -14,7 +14,7 @@ My research interest includes deep drug discovery, generative models, and graph 
 ## Education
 ***
 * M.S. student, Graduate School of AI<br>
-Korea Advanced Institute of Science and Technology (KAIST), Sep. 2020 ~
+Korea Advanced Institute of Science and Technology (KAIST), Mar. 2021 ~ present.
 * M.S. student, Department of Aerospace Engineering<br>
 Korea Advanced Institute of Science and Technology (KAIST), Sep. 2019 ~ Feb. 2020.
 * B.S., Department of Aerospace Engineering<br>
