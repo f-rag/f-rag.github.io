@@ -26,18 +26,22 @@ Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 201
 
 ## Publications and Preprints
 ***
-* MOG: Molecular Out-of-distribution Generation with Energy-based Models<br>
-**Seul Lee**, Dong Bok Lee and Sung Ju Hwang<br>
-In submission, 2021.
+<!-- * MOG: Molecular Out-of-distribution Generation with Energy-based Models<br>
+**Seul Lee**, Dong Bok Lee, and Sung Ju Hwang<br>
+In submission, 2021. -->
+* Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
+Jaehyeong Jo\*, Seul Lee\*, and Sung Ju Hwang<br>
+(\*: equal contribution)<br>
+arXiv, 2022. \[[paper](https://arxiv.org/pdf/2202.02514.pdf)\]
 * Edge Representation Learning with Hypergraphs<br>
-Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang and Sung Ju Hwang<br>
+Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
 NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2106.15845.pdf)\]
 * Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation<br>
-Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu and Sung Ju Hwang<br>
+Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
 NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2110.01219.pdf)\]
 * Robotic Scanning Technology for Laser Pulse-Echo Inspection<br>
-**Seul Lee**, Jong-min Hyun, Hasan Ahmed and Jung-ryul Lee<br>
+**Seul Lee**, Jong-min Hyun, Hasan Ahmed, and Jung-ryul Lee<br>
 Electronics Letters, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
 
 <br>
