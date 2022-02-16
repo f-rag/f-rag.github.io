@@ -24,6 +24,13 @@ Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 201
 
 <br>
 
+## Ongoing Research
+***
+* Out-of-distribution Generation of Molecules using Energy-based Models<br>
+**Seul Lee**, Dong Bok Lee, and Sung Ju Hwang
+
+<br>
+
 ## Publications and Preprints
 ***
 <!-- * MOG: Molecular Out-of-distribution Generation with Energy-based Models<br>
