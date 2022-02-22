@@ -36,10 +36,10 @@ Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 201
 <!-- * MOG: Molecular Out-of-distribution Generation with Energy-based Models<br>
 **Seul Lee**, Dong Bok Lee, and Sung Ju Hwang<br>
 In submission, 2021. -->
-* Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
+<!-- * Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
-In submission, 2022. \[[paper](https://arxiv.org/pdf/2202.02514.pdf)\]
+In submission, 2022. \[[paper](https://arxiv.org/pdf/2202.02514.pdf)\] -->
 * Edge Representation Learning with Hypergraphs<br>
 Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
