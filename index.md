@@ -32,18 +32,18 @@ learning
 
 <br>
 
-## Ongoing Research
+<!-- ## Ongoing Research
 ***
 * Out-of-distribution Generation of Molecules using Score-based Models<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang
 
-<br>
+<br> -->
 
 ## Publications and Preprints
 ***
-<!-- * MOG: Molecular Out-of-distribution Generation with Energy-based Models<br>
-**Seul Lee**, Dong Bok Lee, and Sung Ju Hwang<br>
-In submission, 2021. -->
+* Exploring Chemical Space with Score-based Out-of-distribution Generation<br>
+**Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
+arXiv, 2022. \[[paper](https://arxiv.org/pdf/2206.07632.pdf)\]
 * Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
