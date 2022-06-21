@@ -45,7 +45,7 @@ learning
 ***
 * Exploring Chemical Space with Score-based Out-of-distribution Generation<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
-<span style="color:navy">**arXiv**</span>, 2022. \[[**paper**](https://arxiv.org/pdf/2206.07632.pdf)\]
+<span style="color:green">**arXiv**</span>, 2022. \[[**paper**](https://arxiv.org/pdf/2206.07632.pdf)\]
 * Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
