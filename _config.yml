@@ -8,18 +8,17 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Seul Lee
   desc: M.S. Student in Graduate School of AI, KAIST
-  email: seul.lee@kaist.ac.kr
   selfie: assets/img/profile.jpg
 
 # social
 social:
-  email: true
+  email:
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
-  github: SeulLee05
+  github:
   google_plus:
   instagram:
   keybase:
