@@ -6,7 +6,7 @@ layout: about
 
 ## About Me
 ***
-I'm a M.S. student at [Machine Learning and Artificial Intelligence (MLAI)](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
+I'm a M.S. student at [<span style="color:dodgerblue">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
 My research interest includes deep drug discovery, generative models, and graph representation learning.
 
 <br>
@@ -45,7 +45,7 @@ learning
 ***
 * Exploring Chemical Space with Score-based Out-of-distribution Generation<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
-<span style="color:green">**arXiv**</span>, 2022. \[[<span style="color:teal">**paper**</span>](https://arxiv.org/pdf/2206.07632.pdf)\]
+<span style="color:green">**arXiv**</span>, 2022. `[**paper**](https://arxiv.org/pdf/2206.07632.pdf)`
 * Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
