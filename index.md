@@ -49,17 +49,17 @@ learning
 * Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**ICML**</span>, 2022. \[[**paper**](https://arxiv.org/pdf/2202.02514.pdf)\]\[[**code**](https://github.com/harryjo97/GDSS)\]
+<span style="color:navy">**ICML**</span>, 2022. \[[<span style="color:dodgerblue">**paper**</span>](https://arxiv.org/pdf/2202.02514.pdf)\]\[[<span style="color:dodgerblue">**code**</span>](https://github.com/harryjo97/GDSS)\]
 * Edge Representation Learning with Hypergraphs<br>
 Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**NeurIPS**</span>, 2021. \[[**paper**](https://arxiv.org/pdf/2106.15845.pdf)\]\[[**code**](https://github.com/harryjo97/EHGNN)\]
+<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:dodgerblue">**paper**</span>](https://arxiv.org/pdf/2106.15845.pdf)\]\[[<span style="color:dodgerblue">**code**</span>](https://github.com/harryjo97/EHGNN)\]
 * Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation<br>
 Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
-<span style="color:navy">**NeurIPS**</span>, 2021. \[[**paper**](https://arxiv.org/pdf/2110.01219.pdf)\]\[[**code**](https://github.com/AITRICS/FREED)\]
+<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:dodgerblue">**paper**</span>](https://arxiv.org/pdf/2110.01219.pdf)\]\[[<span style="color:dodgerblue">**code**</span>](https://github.com/AITRICS/FREED)\]
 * Robotic Scanning Technology for Laser Pulse-Echo Inspection<br>
 **Seul Lee**, Jong-min Hyun, Hasan Ahmed, and Jung-ryul Lee<br>
-<span style="color:navy">**Electronics Letters**</span>, 2020. \[[**paper**](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
+<span style="color:navy">**Electronics Letters**</span>, 2020. \[[<span style="color:dodgerblue">**paper**</span>](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
 
 <br>
 
