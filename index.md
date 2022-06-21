@@ -29,7 +29,7 @@ Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 201
 
 ## Research Experience
 ***
-* Research Intern, AITRICS<br>
+* Research Intern, [<span style="color:teal">AITRICS</span>](https://www.aitrics.com)<br>
 Research topic: Docking-optimized molecule generation using reinforcement
 learning
 
