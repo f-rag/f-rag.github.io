@@ -59,7 +59,7 @@ Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
 NeurIPS, 2021. \[[paper](https://arxiv.org/pdf/2110.01219.pdf)\]\[[code](https://github.com/AITRICS/FREED)\]
 * Robotic Scanning Technology for Laser Pulse-Echo Inspection<br>
 **Seul Lee**, Jong-min Hyun, Hasan Ahmed, and Jung-ryul Lee<br>
-<font color='dodgerblue'>Electronics Letters</font>, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
+<span style="color:dodgerblue">Electronics Letters</span>, 2020. \[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
 
 <br>
 
