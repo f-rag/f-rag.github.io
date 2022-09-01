@@ -6,15 +6,15 @@ layout: about
 
 ## About Me
 ***
-I'm a M.S. student at [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
+I'm a Ph.D. student at [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab in KAIST, under the supervision of Prof. Sung Ju Hwang. I obtained my B.S. degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
 My research interest includes deep drug discovery, generative models, and graph representation learning.
 
 <br>
 
 ## Education
 ***
-<!-- * Ph.D. student, Graduate School of AI<br>
-Korea Advanced Institute of Science and Technology (KAIST), Sep. 2022 ~ present. -->
+* Ph.D. student, Graduate School of AI<br>
+Korea Advanced Institute of Science and Technology (KAIST), Sep. 2022 ~ present.
 * M.S., Graduate School of AI<br>
 Korea Advanced Institute of Science and Technology (KAIST), Mar. 2021 ~ Aug. 2022.
 <!-- * M.S. student, Department of Aerospace Engineering<br>
