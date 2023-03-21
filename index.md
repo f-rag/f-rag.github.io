@@ -46,7 +46,7 @@ learning
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**bioRxiv**</span>, 2023.
+<span style="color:navy">**Under review**</span>, 2023.
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation**<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
 <span style="color:navy">**ICLR Machine Learning for Drug Discovery Workshop (Oral)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/pdf/2206.07632.pdf)\]
