@@ -46,21 +46,21 @@ learning
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**Nature Communications (Submitted)**</span>, 2023. \[[<span style="color:teal">web</span>](https://readretro.net)\]
+<span style="color:navy">**Nature Communications (Submitted)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation**<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
-<span style="color:navy">**ICLR Machine Learning for Drug Discovery Workshop (Oral)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/pdf/2206.07632.pdf)\]
+<span style="color:navy">**ICLR Machine Learning for Drug Discovery Workshop (Oral)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2206.07632)\]
 * **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations**<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**ICML**</span>, 2022. \[[<span style="color:teal">paper</span>](https://arxiv.org/pdf/2202.02514.pdf)\]\[[<span style="color:teal">code</span>](https://github.com/harryjo97/GDSS)\]
+<span style="color:navy">**ICML**</span>, 2022. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2202.02514)\]\[[<span style="color:teal">code</span>](https://github.com/harryjo97/GDSS)\]
 * **Edge Representation Learning with Hypergraphs**<br>
 Jaehyeong Jo\*, Jinheon Baek\*, **Seul Lee\***, Dongki Kim, Minki Kang, and Sung Ju Hwang<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:teal">paper</span>](https://arxiv.org/pdf/2106.15845.pdf)\]\[[<span style="color:teal">code</span>](https://github.com/harryjo97/EHGNN)\]
+<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2106.15845)\]\[[<span style="color:teal">code</span>](https://github.com/harryjo97/EHGNN)\]
 * **Hit and Lead Discovery with Explorative RL and Fragment-based Molecule Generation**<br>
 Soojung Yang, Doyeong Hwang, **Seul Lee**, Seongok Ryu, and Sung Ju Hwang<br>
-<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:teal">paper</span>](https://arxiv.org/pdf/2110.01219.pdf)\]\[[<span style="color:teal">code</span>](https://github.com/AITRICS/FREED)\]
+<span style="color:navy">**NeurIPS**</span>, 2021. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2110.01219)\]\[[<span style="color:teal">code</span>](https://github.com/AITRICS/FREED)\]
 * **Robotic Scanning Technology for Laser Pulse-Echo Inspection**<br>
 **Seul Lee**, Jong-min Hyun, Hasan Ahmed, and Jung-ryul Lee<br>
 <span style="color:navy">**Electronics Letters**</span>, 2020. \[[<span style="color:teal">paper</span>](https://ietresearch.onlinelibrary.wiley.com/doi/epdf/10.1049/el.2020.1444)\]
