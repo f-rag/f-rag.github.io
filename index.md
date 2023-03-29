@@ -19,7 +19,7 @@ Korea Advanced Institute of Science and Technology (KAIST), Sep. 2022 ~ present.
 Korea Advanced Institute of Science and Technology (KAIST), Mar. 2021 ~ Aug. 2022.
 <!-- * M.S. student, Department of Aerospace Engineering<br>
 Korea Advanced Institute of Science and Technology (KAIST), Sep. 2019 ~ Feb. 2020. -->
-* B.S., Department of Aerospace Engineering (Double Major in Department of Biological Sciences)<br>
+* B.S., Department of Aerospace Engineering / Department of Biological Sciences (Double Major)<br>
 Korea Advanced Institute of Science and Technology (KAIST), Mar. 2015 ~ Aug. 2019.
 
 <br>
