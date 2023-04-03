@@ -44,7 +44,7 @@ learning
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 (\*: equal contribution)<br>
-<span style="color:navy">**Nature Communications (Submitted)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
+<span style="color:navy">**Nature Communications (Under review)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation**<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
 <span style="color:navy">**ICLR Machine Learning for Drug Discovery Workshop (Oral)**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2206.07632)\]
