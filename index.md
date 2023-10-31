@@ -45,6 +45,9 @@ learning
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
 **Seul Lee**, Seanie Lee, and Sung Ju Hwang<br>
 <span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]
+* **A Simple and Scalable Representation for Graph Generation**<br>
+Yunhui Jang, **Seul Lee**, and Sungsoo Ahn<br>
+<span style="color:navy">**Under Review**</span>, 2023.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 <span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
