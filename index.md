@@ -30,7 +30,7 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
 Research topic: Fundamental Generative AI
 * Research Intern, AITRICS<br>
-Jan. 2021 ~ Feb. 2021, South Korea
+Jan. 2021 ~ Feb. 2021, South Korea<br>
 Research topic: Docking-optimized molecule generation using reinforcement learning
 
 <br>
