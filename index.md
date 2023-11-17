@@ -28,10 +28,10 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 ***
 * Research Intern, NVIDIA Research<br>
 Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
-Research topic: Fundamental Generative AI
+Research topic: Fundamental generative AI
 * Research Intern, AITRICS<br>
 Jan. 2021 ~ Feb. 2021, South Korea<br>
-Research topic: Docking-optimized molecule generation using reinforcement learning
+Research topic: Docking-optimized molecule generation using RL
 
 <br>
 
