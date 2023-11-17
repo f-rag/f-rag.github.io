@@ -26,9 +26,12 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 
 ## Research Experience
 ***
-* Research Intern, [<span style="color:teal">AITRICS</span>](https://www.aitrics.com)<br>
-Research topic: Docking-optimized molecule generation using reinforcement
-learning
+* Research Intern, NVIDIA Research<br>
+Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
+Research topic: Fundamental Generative AI
+* Research Intern, AITRICS<br>
+Jan. 2021 ~ Feb. 2021, South Korea
+Research topic: Docking-optimized molecule generation using reinforcement learning
 
 <br>
 
