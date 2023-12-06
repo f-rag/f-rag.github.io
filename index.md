@@ -50,7 +50,7 @@ Research topic: Docking-optimized molecule generation using RL
 <span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]
 * **A Simple and Scalable Representation for Graph Generation**<br>
 Yunhui Jang, **Seul Lee**, and Sungsoo Ahn<br>
-<span style="color:navy">**Under Review**</span>, 2023.<br>
+<span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2312.02230)\]<br>
 <span style="color:navy">**NeurIPS New Frontiers in Graph Learning Workshop**</span>, 2023.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
