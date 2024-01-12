@@ -54,10 +54,10 @@ Yunhui Jang, **Seul Lee**, and Sungsoo Ahn<br>
 <span style="color:navy">**NeurIPS New Frontiers in Graph Learning Workshop**</span>, 2023.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
-<span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
+<span style="color:navy">**Under Review**</span>, 2023. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/READRetro)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
 * **Exploring Chemical Space with Score-based Out-of-distribution Generation**<br>
 **Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang<br>
-<span style="color:navy">**ICML**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2206.07632)\]<br>
+<span style="color:navy">**ICML**</span>, 2023. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2206.07632)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/MOOD)\]<br>
 <span style="color:navy">**ICLR Machine Learning for Drug Discovery Workshop (Oral)**</span>, 2023.
 * **Score-based Generative Modeling of Graphs via the System of Stochastic Differential Equations**<br>
 Jaehyeong Jo\*, **Seul Lee\***, and Sung Ju Hwang<br>
