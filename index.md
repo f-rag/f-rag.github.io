@@ -28,7 +28,7 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 ***
 * **Research Intern**, <span style="color:navy">**NVIDIA Research**</span><br>
 Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
-Research topic: Generative AI for Science
+Research topic: Generative AI for science
 * **Research Intern**, <span style="color:navy">**AITRICS**</span><br>
 Jan. 2021 ~ Feb. 2021, South Korea<br>
 Research topic: Docking-optimized molecule generation using RL
