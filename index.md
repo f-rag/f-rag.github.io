@@ -49,7 +49,7 @@ Research topic: Docking-optimized molecule generation using RL
 Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
 <span style="color:navy">**Under Review**</span>, 2024.
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
-**Seul Lee**, Seanie Lee, and Sung Ju Hwang<br>
+**Seul Lee**, Seanie Lee, Kenji Kawaguchi, and Sung Ju Hwang<br>
 <span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
