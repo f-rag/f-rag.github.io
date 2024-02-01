@@ -45,6 +45,9 @@ Research topic: Docking-optimized molecule generation using RL
 ## Publications and Preprints
 ***
 \*: equal contribution
+* **Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship**<br>
+Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
+<span style="color:navy">**Under Review**</span>, 2024.
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
 **Seul Lee**, Seanie Lee, and Sung Ju Hwang<br>
 <span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]
