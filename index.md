@@ -50,7 +50,7 @@ Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
 <span style="color:navy">**Under Review**</span>, 2024.
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
 **Seul Lee**, Seanie Lee, Kenji Kawaguchi, and Sung Ju Hwang<br>
-<span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]
+<span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841v2)\]
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 <span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/READRetro)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
