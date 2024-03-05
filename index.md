@@ -28,19 +28,13 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 ***
 * **Research Intern**, <span style="color:navy">**NVIDIA Research**</span><br>
 Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
-Research topic: Generative AI for science
+Research topic: Generative AI for science<br>
+Mentors: [<span style="color:teal">Weili Nie</span>](https://weilinie.github.io), [<span style="color:teal">Karsten Kreis</span>](https://karstenkreis.github.io), and [<span style="color:teal">Arash Vahdat</span>](http://latentspace.cc)
 * **Research Intern**, <span style="color:navy">**AITRICS**</span><br>
 Jan. 2021 ~ Feb. 2021, South Korea<br>
 Research topic: Docking-optimized molecule generation using RL
 
 <br>
-
-<!-- ## Ongoing Research
-***
-* Out-of-distribution Generation of Molecules using Score-based Models<br>
-**Seul Lee**, Jaehyeong Jo, and Sung Ju Hwang
-
-<br> -->
 
 ## Publications and Preprints
 ***
@@ -51,7 +45,7 @@ Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
 <span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024.
 * **Drug Discovery with Dynamic Goal-aware Fragments**<br>
 **Seul Lee**, Seanie Lee, Kenji Kawaguchi, and Sung Ju Hwang<br>
-<span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841v2)\]<br>
+<span style="color:navy">**Under Review**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2310.00841)\]<br>
 <span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
