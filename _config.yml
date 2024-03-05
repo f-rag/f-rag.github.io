@@ -8,6 +8,7 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 author:
   name: Seul Lee
   desc: Ph.D. Student in Graduate School of AI, KAIST
+  email: seul.lee [at] kaist [dot] ac [dot] kr
   selfie: assets/img/profile.jpg
 
 # social
