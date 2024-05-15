@@ -48,7 +48,7 @@ Research topic: Docking-optimized molecule generation using RL
 <span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024.
 * **Protein Representation Learning by Capturing Protein Sequence-Structure-Function Relationship**<br>
 Eunji Ko\*, **Seul Lee\***, Minseon Kim\*, Dongki Kim, and Sung Ju Hwang<br>
-<span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024.
+<span style="color:navy">**ICLR Machine Learning for Genomics Explorations Workshop (Spotlight)**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2405.06663)\]<br>
 * **A Simple and Scalable Representation for Graph Generation**<br>
 Yunhui Jang, **Seul Lee**, and Sungsoo Ahn<br>
 <span style="color:navy">**ICLR**</span>, 2024. \[[<span style="color:teal">paper</span>](https://arxiv.org/abs/2312.02230)\]<br>
