@@ -40,7 +40,8 @@ Research topic: Docking-optimized molecule generation using RL
 ***
 \*: equal contribution
 * **Molecule Generation with Fragment Retrieval Augmentation**<br>
-**Seul Lee\***, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Saee Paliwal, Arash Vahdat†, and Weili Nie† (†: equal advising) <br>
+**Seul Lee**, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach,<br>
+Saee Paliwal, Arash Vahdat†, and Weili Nie† (†: equal advising)<br>
 <span style="color:navy">**Under Review**</span>, 2024.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
