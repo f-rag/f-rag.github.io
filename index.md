@@ -39,6 +39,9 @@ Research topic: Docking-optimized molecule generation using RL
 ## Publications and Preprints
 ***
 \*: equal contribution
+* **Molecule Generation with Fragment Retrieval Augmentation**<br>
+**Seul Lee\***, Karsten Kreis, Srimukh Prasad Veccham, Meng Liu, Danny Reidenbach, Saee Paliwal, Arash Vahdat†, and Weili Nie† (†: equal advising) <br>
+<span style="color:navy">**Under Review**</span>, 2024.
 * **READRetro: Natural Product Biosynthesis Planning with Retrieval-Augmented Dual-View Retrosynthesis**<br>
 **Seul Lee\***, Taein Kim\*, Min-Soo Choi, Yejin Kwak, Jeongbin Park, Sung Ju Hwang, and Sang-Gyu Kim<br>
 <span style="color:navy">**New Phytologist**</span>, 2024. \[[<span style="color:teal">paper</span>](https://www.biorxiv.org/content/10.1101/2023.03.21.533616v1)\]\[[<span style="color:teal">code</span>](https://github.com/SeulLee05/READRetro)\]\[[<span style="color:teal">web</span>](https://readretro.net)\]
