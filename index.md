@@ -26,7 +26,7 @@ KAIST, Mar. 2015 ~ Aug. 2019.
 
 ## Research Experience
 ***
-* **Research Intern**, <span style="color:navy">**NVIDIA Research**</span><br>
+* **Research Intern**, <span style="color:navy">**NVIDIA**</span><br>
 Feb. 2024 ~ Aug. 2024, Santa Clara, CA, US (remote)<br>
 Research topic: Generative AI for science<br>
 Mentors: [<span style="color:teal">Weili Nie</span>](https://weilinie.github.io), [<span style="color:teal">Karsten Kreis</span>](https://karstenkreis.github.io), and [<span style="color:teal">Arash Vahdat</span>](http://latentspace.cc)
