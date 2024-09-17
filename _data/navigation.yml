@@ -1,0 +1,15 @@
+# If you want to link only specific pages in your header, add the path to the
+# pages in order as they should show up.
+main:
+  - title: "About"
+    url: /
+  - title: "Projects"
+    url: /projects/
+  - title: "CV"
+    url: assets/cv.pdf
+  - title: "Google Scholar"
+    url: https://scholar.google.com/citations?user=Ek0N9YYAAAAJ&hl=en
+  - title: "Twitter"
+    url: https://twitter.com/SeulLee05
+  - title: "GitHub"
+    url: https://github.com/SeulLee05
