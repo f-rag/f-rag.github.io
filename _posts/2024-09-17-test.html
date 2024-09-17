@@ -1,0 +1,313 @@
+---
+layout: post
+title: Molecule Generation with Fragment Retrieval Augmentation
+---
+
+<!doctype html>
+<html lang="en">
+
+<head>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag("js", new Date());
+
+        gtag("config", "G-TWYL63WYX1");
+    </script>
+    <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+
+    <!-- <meta charset="utf-8"> -->
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="assets/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Sans:300,400,500,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:300,400,500,600,700" rel="stylesheet">
+
+    <title>I&#178;SB: Image-to-Image Schrödinger Bridge</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,500,600,700,800">
+    <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+    <link href="https://cdn.jsdelivr.net/npm/prismjs/themes/prism.min.css" rel="stylesheet" />
+    <link href="https://cdn.jsdelivr.net/gh/jablonczay/code-box-copy/code-box-copy/css/code-box-copy.min.css"
+        rel="stylesheet" />
+
+    <link rel="stylesheet" type="text/css" href="style.css" />
+    <script src="js/opentab.js"></script>
+</head>
+
+<body onload="document.getElementById('defaultOpen').click(); document.getElementById('defaultOpen2').click();">
+    <main role="main">
+
+        <!-- <section class="jumbotron text-center" style="padding: 2%; padding-bottom: 1%; background-color: #e6e9ec;"> -->
+        <section class="jumbotron text-center" id="banner">
+            <div class="container" id="title">
+                <h2 class="jumbotron-heading">I<sup>2</sup>SB: Image-to-Image Schrödinger Bridge</h2>
+            </div>
+
+            <div class="container" style="max-width: 840px;">
+                <div class="row row-author">
+                    <div class="col-md author"><a href="https://ghliu.github.io/" target="_blank">Guan-Horng Liu</a><sup>1</sup></div>
+                    <div class="col-md author"><a href="http://latentspace.cc/" target="_blank">Arash Vahdat</a><sup>2</sup></div>
+                    <div class="col-md author"><a href="https://ai.stanford.edu/~dahuang/" target="_blank">De-An Huang</a><sup>2</sup></div>
+                </div>
+
+                <div class="row row-author">
+                    <div class="col-md author"><a href="https://sites.gatech.edu/acds/people/" target="_blank">Evangelos A. Theodorou</a><sup>1</sup></div>
+                    <!-- <div class="col-md author"><a href="https://sites.gatech.edu/acds/" target="_blank">Evangelos A. Theodorou</a><sup>*</div</sup>> -->
+                    <div class="col-md author"><a href="https://weilinie.github.io/" target="_blank">Weili Nie</a><sup>†,2</sup></div>
+                    <div class="col-md author"><a href="http://tensorlab.cms.caltech.edu/users/anima/" target="_blank">Anima Anandkumar</a><sup>†,2,3</sup></div>
+                </div>
+
+                <div class="affil">
+                    <span style="padding-left: 3.3em; padding-right: 3.3em"><sup>1</sup> Georgia Tech</span>
+                    <span style="padding-left: 3.3em; padding-right: 3.3em"><sup>2</sup> NVIDIA Corporation</span>
+                    <span style="padding-left: 3.3em; padding-right: 3.3em"><sup>3</sup> Caltech</span>
+                </div>
+                <div class="row" style="margin-top:0rem; margin-left: auto; margin-right: auto;">
+                    <div class="col-md">
+                        <h9><sup style="color: #b2b2b2;">†</sup> Equal advising</h9>
+                        <div id="affiliation"><img width="20%" src="./assets/nvidialogo.png"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row" id="pitch">
+                    <p style="text-align: center; font-size: 115%;">
+                        International Conference on Machine Learning (ICML), 2023
+                    </p>
+                </div>
+            </div>
+
+            <div class="buttons">
+                <a href="https://arxiv.org/abs/2302.05872" target="_blank" class="btn btn-primary my-2">Paper (arXiv)</a>
+                <a href="https://github.com/NVlabs/I2SB" target="_blank" class="btn btn-primary my-2">Code (released!)</a>
+            </div>
+
+            <div class="container">
+                <div class="row" id="pitch">
+                    <p style="text-align: center;">
+                        I<sup style="color: white;">2</sup>SB is a new class of conditional diffusion models that directly construct diffusion bridges between two given distributions.
+                        It yields interpretable generation, enjoys better sampling efficiency, and sets new records on many image restoration tasks.
+                    </p>
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    <div style="padding: 30px 0 0 0; text-align: center; font-size: 90%;">
+        (best viewed on a desktop/laptop)
+    </div>
+
+    <div class="container" style="padding-top: 30px;">
+
+        <!-- Abstract -->
+        <h5>Abstract</h5>
+        <p style="text-align: justify;">
+            We propose Image-to-Image Schrödinger Bridge (I<sup>2</sup>SB), a new class of conditional diffusion models that directly learn the nonlinear diffusion processes between two given distributions.
+            These diffusion bridges are particularly useful for image restoration, as the degraded images are structurally informative priors for reconstructing the clean images.
+            I<sup>2</sup>SB belongs to a tractable class of Schrödinger bridge, the nonlinear extension to score-based models, whose marginal distributions can be computed analytically given boundary pairs.
+            This results in a simulation-free framework for nonlinear diffusions, where the I<sup>2</sup>SB training becomes scalable by adopting practical techniques used in standard diffusion models.
+            We validate I<sup>2</sup>SB in solving various image restoration tasks, including inpainting, super-resolution, deblurring, and JPEG restoration on ImageNet 256x256 and show that I<sup>2</sup>SB surpasses standard conditional diffusion models with more interpretable generative processes.
+            Moreover, I<sup>2</sup>SB matches the performance of inverse methods that additionally require the knowledge of the corruption operators.
+            Our work opens up new algorithmic opportunities for developing efficient nonlinear diffusion models on a large scale.
+        </p>
+
+
+        <hr>
+        <h5>Schrödinger Bridge as Interpretable Conditional Diffusion Model</h5>
+        <!-- <h5>Schrödinger Bridge as Interpretable Conditional Diffusion Model</h5> -->
+        <div class="container">
+            <p>
+                Rather than generating images from random noise as in prior conditional or inverse-guided diffusion models, I<sup>2</sup>SB  directly learns the diffusion bridges between two given distribution, <i>e.g.</i>, degraded and clean image distributions, yielding more interpretable generation that is effective for image restoration.
+            </p>
+            <div class="row row-method">
+                <div class="column-method-left">
+                    <img src="assets/diagram.png" style="width: 100%; padding-top: 30px;">
+                </div>
+                <div class="column-method-right">
+                    <!-- https://stackoverflow.com/questions/54458516/how-to-disable-picture-in-picture-mode-on-html5-video -->
+                    <video width=100% autoplay loop muted controls disablePictureInPicture controlsList="noplaybackrate nodownload" id="vid"><source src="assets/generation2.mp4" type="video/mp4">X</video>
+                </div>
+            </div>
+            <div class="row row-method" style="margin-top: 0px;">
+                <div class="column-method-left">
+                    <p style="text-align: center; font-size: 90%; line-height: 1.25em; color: rgb(150, 150, 150); ">
+                        Model diagrams between I<sup>2</sup>SB and prior diffusion models.
+                    </p>
+                </div>
+                <div class="column-method-right">
+                    <p style="text-align: center; font-size: 90%; line-height: 1.25em; color: rgb(150, 150, 150); ">
+                        Interpretable generative processes of I<sup>2</sup>SB.
+                    </p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Results on Image Restoration -->
+        <hr>
+        <h5>Results on Image Restoration</h5>
+        <div class="container">
+            <p>
+                We validate I<sup>2</sup>SB in solving various image restoration problems on ImageNet 256x256.
+                I<sup>2</sup>SB surpasses standard conditional diffusion models in many tasks and matches the performance of diffusion-based inversed models (<i>e.g.</i>, DDRM) without knowing the corruption operators in both training and generation.
+                See <a href="https://arxiv.org/abs/2302.05872" target="_blank">our paper</a> for the quantitative results.
+            </p>
+            <p style="text-align: center; font-size: 90%; line-height: 1.25em; color: rgb(150, 150, 150); ">
+                Clink the tabs below to visualize reconstruction results of each restoration task.<br>
+            </p>
+            <div class="tab">
+                <button class="tablinks active" onclick="openTab(event, 'Super-resolution')" id="defaultOpen">4x super-resolution</button>
+                <button class="tablinks" onclick="openTab(event, 'Inpainting')" id="tablink-inpaint">Inpainting</button>
+                <button class="tablinks" onclick="openTab(event, 'JPEG')" id="tablink-jpeg">JPEG restoration</button>
+                <button class="tablinks active" onclick="openTab(event, 'Deblurring')" id="tablink-deblur">Deblurring</button>
+            </div>
+
+            <!-- Tab content -->
+            <div id="Inpainting" class="tabcontent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md reconstruction"><i>Input</i></div>
+                        <div class="col-md reconstruction"><i>I<sup>2</sup>SB output</i></div>
+                        <div class="col-md reconstruction"><i>Reference</i></div>
+                    </div>
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/inpaint.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="Deblurring" class="tabcontent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md reconstruction"><i>Input</i></div>
+                        <div class="col-md reconstruction"><i>I<sup>2</sup>SB output</i></div>
+                        <div class="col-md reconstruction"><i>Reference</i></div>
+                    </div>
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/deblur.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="JPEG" class="tabcontent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md reconstruction"><i>Input</i></div>
+                        <div class="col-md reconstruction"><i>I<sup>2</sup>SB output</i></div>
+                        <div class="col-md reconstruction"><i>Reference</i></div>
+                    </div>
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/jpeg5.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="Super-resolution" class="tabcontent">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md reconstruction"><i>Input</i></div>
+                        <div class="col-md reconstruction"><i>I<sup>2</sup>SB output</i></div>
+                        <div class="col-md reconstruction"><i>Reference</i></div>
+                    </div>
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/sr4xp.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Interpretable and Efficient Generative Processes -->
+        <hr>
+        <h5>Interpretable and Efficient Generative Processes</h5>
+        <div class="container">
+            <div class="row row-nfe">
+                <div class="column-a">
+                    <img src="assets/nfe_curve.jpg" style="width: 96%;">
+                </div>
+                <div class="column-b">
+                    <p>
+                        Interpretable generation implies sampling efficiency.
+                        Since the clean and degraded images are typically close to each other, the generation of I<sup>2</sup>SB starts from a much more structurally informative prior compared to random noise. Consequently, I<sup>2</sup>SB enjoys little or no performance drop as the number of function evaluation (NFE) decreases in sampling. In constrast, standard conditional diffuion models such as Palette (Saharia et al., 2022) tends to generate unnatural images with noisy repainting or contrast shift with small NFE.
+                    </p>
+                </div>
+            </div>
+            <p style="text-align: center; font-size: 90%; line-height: 1.25em; color: rgb(150, 150, 150); ">
+                Clink the tabs below to visualize comparison between Palette and I<sup>2</sup>SB across different NFEs.<br>
+            </p>
+            <div class="tab">
+                <button class="tablinks active" onclick="openTab2(event, 'NFE-inpf20')" id="defaultOpen2" style="width: 33.3%;">Inpainting (Freeform masks)</button>
+                <button class="tablinks" onclick="openTab2(event, 'NFE-inpc')" id="tablink-nfe-inpc" style="width: 33.3%;">Inpainting (Center masks)</button>
+                <button class="tablinks" onclick="openTab2(event, 'NFE-deblur')" id="tablink-nfe-deblur" style="width: 33.3%;">Deblurring</button>
+            </div>
+
+            <!-- Tab content -->
+            <div id="NFE-inpf20" class="tabcontent">
+                <div class="container">
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/nef_f20.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="NFE-inpc" class="tabcontent">
+                <div class="container">
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/nef_center.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+
+            <div id="NFE-deblur" class="tabcontent">
+                <div class="container">
+                     <div class="row">
+                        <div class="col-md reconstruction"><img src="assets/nef_deblur.png" style="width: 100%;"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Citation. -->
+        <hr>
+        <h5>Publications</h5>
+        <div class="container">
+            <div class="paper">
+                <div class="paper_pic"><img src="assets/preview.jpg" height="250"></div>
+                <div class="paper_content">
+                    <br>
+                    <h4>arXiv preprint: <a href="https://arxiv.org/abs/2302.05872" target="_blank">https://arxiv.org/abs/2302.05872</a></h4>
+                    <h4>code: <a href="https://github.com/NVlabs/I2SB" target="_blank">https://github.com/NVlabs/I2SB</a></h4>
+                    <h4>BibTex:</h4>
+                    <div id="citation">
+                        @article{liu2023i2sb,<br>
+                          &nbsp;&nbsp;title={I{$^2$}SB: Image-to-Image Schr{\"o}dinger Bridge},<br>
+                          &nbsp;&nbsp;author={Liu, Guan-Horng and Vahdat, Arash and Huang, De-An and Theodorou, Evangelos A and Nie, Weili and Anandkumar, Anima},<br>
+                          &nbsp;&nbsp;journal={arXiv preprint arXiv:2302.05872},<br>
+                          &nbsp;&nbsp;year={2023},<br>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <footer class="text-muted">
+        <div class="container">
+            <p class="float-right">
+                <a href="#">Back to top</a>
+            </p>
+        </div>
+    </footer>
+
+</body>
+
+</html>
