@@ -6,8 +6,7 @@ permalink: /
 
 ### About Me
 ***
-I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. Prior to this, I obtained my Master's degree also in the MLAI lab at KAIST. I obtained my Bachelor's degrees (Aerospace Engineering, Biological Sciences) at KAIST.<br>
-My research interests are *AI for science* and *generative models*.
+I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artificial Intelligence (MLAI)</span>](https://www.mlai-kaist.com) lab at KAIST, under the supervision of Prof. Sung Ju Hwang. Prior to this, I obtained my Master's degree also in the MLAI lab at KAIST. I obtained my Bachelor's degrees (Aerospace Engineering, Biological Sciences) at KAIST. My research interests are *AI for science* and *generative models*.
 
 <br>
 
