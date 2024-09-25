@@ -16,7 +16,7 @@ I'm a Ph.D. student in the [<span style="color:teal">Machine Learning and Artifi
 KAIST, Sep. 2022 ~ present.
 * M.S., Graduate School of AI<br>
 KAIST, Mar. 2021 ~ Aug. 2022.
-* B.S., Department of Aerospace Engineering / Department of Biological Sciences (Double Major)<br>
+* B.S., Aerospace Engineering / Biological Sciences (Double Major)<br>
 KAIST, Mar. 2015 ~ Aug. 2019.
 
 <br>
