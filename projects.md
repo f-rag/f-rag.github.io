@@ -24,7 +24,7 @@ permalink: /
         seul.lee@kaist.ac.kr<br>
         {kkreis, sveccham, menliu, dreidenbach, saeep, avahdat, wnie}@nvidia.com<br>
     </span>
-    <a href="https://arxiv.org" style="color:teal">[Paper]</a>
+    <a href="https://arxiv.org/abs/2411.12078" style="color:teal">[Paper]</a>
 </p>
 
 <br>
@@ -73,7 +73,7 @@ On the [<span style="color:teal">PMO benchmark</span>](https://arxiv.org/abs/220
     title   = {Molecule Generation with Fragment Retrieval Augmentation},
     author  = {Seul Lee and Karsten Kreis and Srimukh Prasad Veccham and Meng Liu and
                Danny Reidenbach and Saee Paliwal and Arash Vahdat and Weili Nie},
-    journal = {arXiv},
+    journal = {Advances in Neural Information Processing Systems},
     year    = {2024}
 }
 ```
